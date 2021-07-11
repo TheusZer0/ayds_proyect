@@ -99,5 +99,5 @@ module.exports = {
     createNewProfesores,
     getProfesoresById,
     removeProfesores,
-    updateProfesores,
+    updateProfesores
 };
